@@ -70,4 +70,4 @@ Key Points:
 
 These were some of the most common proxy standards out there. Hope you find these helpful!
 
-### Thank you for reading
+### Thank you for reading ✨
